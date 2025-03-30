@@ -1,8 +1,8 @@
-Mike Gotfryd
+# Mike Gotfryd
 
-Software Engineering Leader | .NET | Azure | Cloud Solutions | Community Contributor
+### _Software Engineering Leader | .NET | Azure | Cloud Solutions | Community Contributor_
 
-Birmingham, Alabama, United States
+📍 Birmingham, Alabama, United States
 
 A results-oriented Software Engineering Leader, Mike Gotfryd excels in enterprise software architecture and the strategic delivery of mission-critical solutions within the Microsoft ecosystems. This expertise has been built through a career leading and implementing large-scale web applications, mobile solutions, and desktop software, resulting in highly integrated systems that have significantly improved efficiency, scalability, and user engagement.
 
